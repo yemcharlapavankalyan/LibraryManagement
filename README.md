@@ -1,2 +1,1 @@
-Library Management Application
-Book Management Feature
+Library Management System - Develop Version
